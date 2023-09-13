@@ -4,6 +4,8 @@ Perform CRUD operations on a person resource
 
 ## Base URL
 
+https://hng-stage-2-ho24.onrender.com/api
+
 ## UML Diagram
 
 ![UML Diagram](https://github.com/seung-waedet/HNG-Stage-2/assets/109944585/76b3f643-59c9-41b3-b4bb-9087fb123e9c)
